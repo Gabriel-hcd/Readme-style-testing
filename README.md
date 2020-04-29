@@ -15,6 +15,10 @@ structure created with de Java Framework Spring Boot.</p>
 <h6>-Postman-https://www.postman.com/</h6>
 <h6>-Insomnia-https://insomnia.rest/</h6>
 
+<span class="avatar">
+  <img src="https://github.com/github.png">
+</span>
+
 # AUTHORS/CONTACT
 
 <h5>Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com</h5>
