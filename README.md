@@ -15,27 +15,6 @@ structure created with de Java Framework Spring Boot.</p>
 <h6>-Postman-https://www.postman.com/</h6>
 <h6>-Insomnia-https://insomnia.rest/</h6>
 
-<table summary="This is a chart of invoices for 2011.">
-  <thead>
-    <tr>
-      <th scope="col">Table header 1</th>
-      <th scope="col">Table header 2</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Table footer 1</td>
-      <td>Table footer 2</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Table data 1</td>
-      <td>Table data 2</td>
-    </tr>
-  </tbody>
-</table>
-
 # AUTHORS/CONTACT
 
 <h5>Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com</h5>
