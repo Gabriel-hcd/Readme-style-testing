@@ -23,6 +23,17 @@ structure created with de Java Framework Spring Boot.</p>
 <h5>Luis Torres Gonzales/luis.torres@agilethought.com</h5>
 -----------------------------------------------------------
 <h3>COPYING / LICENSE</h3>
+<div class="container-lg clearfix">
+  <div class="col-4 float-left border p-4">
+    My column
+  </div>
+  <div class="col-4 float-left border p-4">
+    Looks better
+  </div>
+  <div class="col-4 float-left border p-4">
+    Than your column
+  </div>
+</div>
 
 4thSource an AgileTought Company
 Branch - Colima, Mexico
