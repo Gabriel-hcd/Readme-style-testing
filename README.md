@@ -9,10 +9,6 @@
 for 4thSource to have a control in the future interships. This API has an MVC 
 structure created with de Java Framework Spring Boot.</p>
 
-<div class="flash">
-  Flash message goes here.
-</div>
-
 # PRE-REQUIREMENTS
 
 <h5>Any platform for API development or API monitoring, like:</h5>
