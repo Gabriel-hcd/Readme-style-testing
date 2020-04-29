@@ -11,9 +11,9 @@ structure created with de Java Framework Spring Boot.</p>
 ----------------------------------------------------------
 <h3>PRE-REQUIREMENTS</h3>
 
-<h5>Any platform for API development or API monitoring, like:
--Postman-https://www.postman.com/
--Insomnia-https://insomnia.rest/</h5>
+<h5>Any platform for API development or API monitoring, like:</h5>
+<h6>-Postman-https://www.postman.com/</h6>
+<h6>-Insomnia-https://insomnia.rest/</h6>
 -----------------------------------------------------------
 <h3>AUTHORS/CONTACT</h3>
 
