@@ -1,6 +1,6 @@
 # README
 	
-<h3 style="color:blue;">Readme file for SprintsAPI</h3>
+<h3>Readme file for SprintsAPI</h3>
 <h5>Created on 4/29/2020</h5>
 <h6>GitHub link - https://github.com/Internship4thSource/SprintsAPI.git</h6>
 <h6>AWS link - sprints-qa.us-east-2.elasticbeanstalk.com/sprints/</h6>
