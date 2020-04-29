@@ -30,13 +30,11 @@ structure created with de Java Framework Spring Boot.</p>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td>Gabriel Carrasco Diaz</td>
-			<td>Jonni Eduardo Aguilar</td>
-			<td>Bruno Mendoza Aguilar</td>
-			<td>Luis Torres Gonzales</td>
-			<td>Victor Santos Munguia Enciso</td>
-		</tr>
+		<tr><td>Gabriel Carrasco Diaz</td></tr>
+		<tr><td>Jonni Eduardo Aguilar</td></tr>
+		<tr><td>Bruno Mendoza Aguilar</td></tr>
+		<tr><td>Luis Torres Gonzales</td></tr>
+		<tr><td>Victor Santos Munguia Enciso</td></tr>
 	</tbody>
 </table>
 
