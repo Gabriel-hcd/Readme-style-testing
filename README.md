@@ -15,15 +15,35 @@ structure created with de Java Framework Spring Boot.</p>
 <h6>-Postman-https://www.postman.com/</h6>
 <h6>-Insomnia-https://insomnia.rest/</h6>
 
-# AUTHORS/CONTACT
+# DEVELOPER TEAM/CONTACT
 
 <h5>Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com</h5>
 <h5>Jonni Eduardo Aguilar/jonni.eduardo@agilethought.com</h5>
 <h5>Bruno Mendoza Aguilar/bruno.mendoza@agilethought.com</h5>
 <h5>Luis Torres Gonzales/luis.torres@agilethought.com</h5>
+<h5>Victor Santos Munguia Enciso/victor.munguia@agilethought.com</h5>
 
 # COPYING / LICENSE
-
+<table summary="This is a chart of invoices for 2011.">
+  <thead>
+    <tr>
+      <th scope="col">Table header 1</th>
+      <th scope="col">Table header 2</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Table footer 1</td>
+      <td>Table footer 2</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Table data 1</td>
+      <td>Table data 2</td>
+    </tr>
+  </tbody>
+</table>
 <h4>4thSource an AgileTought Company</h4>
 <h4>Branch - Colima, Mexico</h4>
 
@@ -42,10 +62,6 @@ structure created with de Java Framework Spring Boot.</p>
 <h6>MongoDB - Database system used for storage the API data</h6>
 <h6>MongoCompass - Used for functionality testing</h6>
 <h6>AWS - Used for deploy the API</h6>
-
-# COLABORATION
-
-<h5>Victor Santos Munguia Enciso/victor.munguia@agilethought.com</h5>
 
 # DOCUMENTATION
 
