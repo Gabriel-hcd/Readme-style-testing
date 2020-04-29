@@ -64,8 +64,8 @@ structure created with de Java Framework Spring Boot.</p>
   </thead>
 <tbody>
   <tr>
-    <th>Eclipse</th>
-    <th>IDE</th>
+    <td>Eclipse</td>
+    <td>IDE</td>
   </tr>
   <tr>
     <td>Java 8</td>
