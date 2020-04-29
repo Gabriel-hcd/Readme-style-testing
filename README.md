@@ -39,7 +39,7 @@ structure created with de Java Framework Spring Boot.</p>
 	  </tr>
 	  <tr>
 		  <td>Luis Torres Gonzales</td>
-		  <td></td>
+		  <td>ltorresgonzalez.98@gmail.com</td>
 	  </tr>
 	  <tr>
 		  <td>Victor Santos Munguia Enciso</td>
