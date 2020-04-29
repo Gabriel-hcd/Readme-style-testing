@@ -17,11 +17,6 @@ structure created with de Java Framework Spring Boot.</p>
 
 # DEVELOPER TEAM/CONTACT
 
-<h5>Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com</h5>
-<h5>Jonni Eduardo Aguilar/jonni.eduardo@agilethought.com</h5>
-<h5>Bruno Mendoza Aguilar/bruno.mendoza@agilethought.com</h5>
-<h5>Luis Torres Gonzales/luis.torres@agilethought.com</h5>
-<h5>Victor Santos Munguia Enciso/victor.munguia@agilethought.com</h5>
 <table>
 	<thead>
 		<tr>
@@ -35,6 +30,13 @@ structure created with de Java Framework Spring Boot.</p>
 		<tr><td>Bruno Mendoza Aguilar</td></tr>
 		<tr><td>Luis Torres Gonzales</td></tr>
 		<tr><td>Victor Santos Munguia Enciso</td></tr>
+	</tbody>
+	<tbody>
+		<tr> <td>gabrielhcarrascod@gmail.com</td> </tr>
+		<tr> <td>dcjonni@gmail.com</td> </tr>
+		<tr> <td>bruno7y62@gmail.com</td> </tr>
+		<tr> <td></td> </tr>
+		<tr> <td>victor00171@hotmail.com</td> </tr>
 	</tbody>
 </table>
 
