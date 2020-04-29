@@ -55,19 +55,68 @@ structure created with de Java Framework Spring Boot.</p>
 
 # CREATED WITH
 
-<h6>Eclipse - IDE</h6>
-<h6>Java 8 - Programming Language</h6>
-<h6>SprintBoot - Framework used</h6>
-<h6>Maven - Dependencies Handler</h6>
-<h6>Swagger - Used to display documentation</h6>
-<h6>Log4j2 - log management</h6>
-<h6>Postman - Used for API management</h6>
-<h6>JUnit 4 - Used for unit testing</h6>
-<h6>Mockito - Framework for unit testing with JUnit 4</h6>
-<h6>GitHub - Repository used for project handling</h6>
-<h6>MongoDB - Database system used for storage the API data</h6>
-<h6>MongoCompass - Used for functionality testing</h6>
-<h6>AWS - Used for deploy the API</h6>
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Technology</th>
+      <th scope="col">Usage</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <th>Eclipse</th>
+    <th>IDE</th>
+  </tr>
+  <tr>
+    <td>Java 8</td>
+    <td>Programming Language</td>
+  </tr>
+  <tr>
+    <td>SprintBoot</td>
+    <td>Framework used</td>
+  </tr>
+  <tr>
+    <td>Maven</td>
+    <td>Dependencies Handler</td>
+  </tr>
+  <tr>
+    <td>Swagger</td>
+    <td>Used to display documentation</td>
+  </tr>
+  <tr>
+    <td>Log4j2</td>
+    <td>Log management</td>
+  </tr>
+  <tr>
+    <td>Postman</td>
+    <td>Used for API management</td>
+  </tr>
+  <tr>
+    <td>JUnit 4</td>
+    <td>Used for unit testing</td>
+  </tr>
+  <tr>
+    <td>Mockito</td>
+    <td>Framework for unit testing with JUnit 4</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>Repository used for project handling</td>
+  </tr>
+  <tr>
+    <td>MongoDB</td>
+    <td>Database system used for storage the API data</td>
+  </tr>
+  <tr>
+    <td>MongoCompass</td>
+    <td>Used for functionality testing</td>
+  </tr>
+  <tr>
+    <td>AWS</td>
+    <td>Used for deploy the API</td>
+  </tr>
+</tbody>
+</table>
 
 # DOCUMENTATION
 
