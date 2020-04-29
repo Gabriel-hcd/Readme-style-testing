@@ -22,28 +22,26 @@ structure created with de Java Framework Spring Boot.</p>
 <h5>Bruno Mendoza Aguilar/bruno.mendoza@agilethought.com</h5>
 <h5>Luis Torres Gonzales/luis.torres@agilethought.com</h5>
 <h5>Victor Santos Munguia Enciso/victor.munguia@agilethought.com</h5>
+<table>
+	<thead>
+		<tr>
+			<th scope="col">DEVELOPER</th>
+			<th scope="col">EMAIL</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Gabriel Carrasco Diaz</td>
+			<td>Jonni Eduardo Aguilar</td>
+			<td>Bruno Mendoza Aguilar</td>
+			<td>Luis Torres Gonzales</td>
+			<td>Victor Santos Munguia Enciso</td>
+		</tr>
+	</tbody>
+</table>
 
 # COPYING / LICENSE
-<table summary="This is a chart of invoices for 2011.">
-  <thead>
-    <tr>
-      <th scope="col">Table header 1</th>
-      <th scope="col">Table header 2</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Table footer 1</td>
-      <td>Table footer 2</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Table data 1</td>
-      <td>Table data 2</td>
-    </tr>
-  </tbody>
-</table>
+
 <h4>4thSource an AgileTought Company</h4>
 <h4>Branch - Colima, Mexico</h4>
 
