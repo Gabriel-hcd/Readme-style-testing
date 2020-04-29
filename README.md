@@ -1,9 +1,9 @@
 # README
 	
-Readme file for SprintsAPI
-Created on 4/29/2020
-GitHub link - https://github.com/Internship4thSource/SprintsAPI.git
-AWS link - sprints-qa.us-east-2.elasticbeanstalk.com/sprints/
+<h5>Readme file for SprintsAPI</h5>
+<h5>Created on 4/29/2020</h5>
+<h6>GitHub link - https://github.com/Internship4thSource/SprintsAPI.git</h6>
+<h6>AWS link - sprints-qa.us-east-2.elasticbeanstalk.com/sprints/</h6>
 
 <p>SprintsAPI is an API to manage the sprints in the ResourceSC project created
 for 4thSource to have a control in the future interships. This API has an MVC 
@@ -45,7 +45,7 @@ AWS - Used for deploy the API</p>
 ------------------------------------------------------------
 <h3>COLABORATION</h3>
 
-Victor Santos Munguia Enciso/victor.munguia@agilethought.com
+<h5>Victor Santos Munguia Enciso/victor.munguia@agilethought.com</h5>
 ------------------------------------------------------------
 <h3>DOCUMENTATION</h3>
 
