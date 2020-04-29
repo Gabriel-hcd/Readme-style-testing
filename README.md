@@ -17,27 +17,35 @@ structure created with de Java Framework Spring Boot.</p>
 
 # DEVELOPER TEAM/CONTACT
 
-<table>
-	<thead>
-		<tr>
-			<th scope="col">DEVELOPER</th>
-			<th scope="col">EMAIL</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr><td>Gabriel Carrasco Diaz</td></tr>
-		<tr><td>Jonni Eduardo Aguilar</td></tr>
-		<tr><td>Bruno Mendoza Aguilar</td></tr>
-		<tr><td>Luis Torres Gonzales</td></tr>
-		<tr><td>Victor Santos Munguia Enciso</td></tr>
-	</tbody>
-	<tfoot>
-		<tr> <td>gabrielhcarrascod@gmail.com</td> </tr>
-		<tr> <td>dcjonni@gmail.com</td> </tr>
-		<tr> <td>bruno7y62@gmail.com</td> </tr>
-		<tr> <td></td> </tr>
-		<tr> <td>victor00171@hotmail.com</td> </tr>
-	</tfoot>
+<table summary="SprintsAPI developers">
+  <thead>
+    <tr>
+      <th scope="col">Developer</th>
+      <th scope="col">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+	  <tr>
+		<td>Gabriel Carrasco Diaz</td>
+      		<td>gabrielhcarrascod@gmail.com</td>
+	  </tr>
+	  <tr>
+		  <td>Jonni Eduardo Aguilar</td>
+		  <td>dcjonni@gmail.com</td>
+	  </tr>
+	  <tr>
+		  <td>Bruno Mendoza Aguilar</td>
+		  <td>bruno7y62@gmail.com</td>
+	  </tr>
+	  <tr>
+		  <td>Luis Torres Gonzales</td>
+		  <td></td>
+	  </tr>
+	  <tr>
+		  <td>Victor Santos Munguia Enciso</td>
+		  <td>victor00171@hotmail.com</td>
+	  </tr>
+  </tbody>
 </table>
 
 # COPYING / LICENSE
