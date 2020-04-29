@@ -29,19 +29,19 @@ structure created with de Java Framework Spring Boot.</p>
 
 # CREATED WITH
 
-<p>Eclipse - IDE
-Java 8 - Programming Language
-SprintBoot - Framework used
-Maven - Dependencies Handler
-Swagger - Used to display documentation
-Log4j2 - log management
-Postman - Used for API management
-JUnit 4 - Used for unit testing
-Mockito - Framework for unit testing with JUnit 4
-GitHub - Repository used for project handling
-MongoDB - Database system used for storage the API data
-MongoCompass - Used for functionality testing
-AWS - Used for deploy the API</p>
+<h6>Eclipse - IDE</h6>
+<h6>Java 8 - Programming Language</h6>
+<h6>SprintBoot - Framework used</h6>
+<h6>Maven - Dependencies Handler</h6>
+<h6>Swagger - Used to display documentation</h6>
+<h6>Log4j2 - log management</h6>
+<h6>Postman - Used for API management</h6>
+<h6>JUnit 4 - Used for unit testing</h6>
+<h6>Mockito - Framework for unit testing with JUnit 4</h6>
+<h6>GitHub - Repository used for project handling</h6>
+<h6>MongoDB - Database system used for storage the API data</h6>
+<h6>MongoCompass - Used for functionality testing</h6>
+<h6>AWS - Used for deploy the API</h6>
 
 # COLABORATION
 
