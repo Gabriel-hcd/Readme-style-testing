@@ -31,13 +31,13 @@ structure created with de Java Framework Spring Boot.</p>
 		<tr><td>Luis Torres Gonzales</td></tr>
 		<tr><td>Victor Santos Munguia Enciso</td></tr>
 	</tbody>
-	<tbody>
+	<tfoot>
 		<tr> <td>gabrielhcarrascod@gmail.com</td> </tr>
 		<tr> <td>dcjonni@gmail.com</td> </tr>
 		<tr> <td>bruno7y62@gmail.com</td> </tr>
 		<tr> <td></td> </tr>
 		<tr> <td>victor00171@hotmail.com</td> </tr>
-	</tbody>
+	</tfoot>
 </table>
 
 # COPYING / LICENSE
