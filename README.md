@@ -11,16 +11,16 @@ structure created with de Java Framework Spring Boot.</p>
 ----------------------------------------------------------
 <h3>PRE-REQUIREMENTS</h3>
 
-Any platform for API development or API monitoring, like:
+<h5>Any platform for API development or API monitoring, like:
 -Postman-https://www.postman.com/
--Insomnia-https://insomnia.rest/
+-Insomnia-https://insomnia.rest/</h5>
 -----------------------------------------------------------
 <h3>AUTHORS/CONTACT</h3>
 
-Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com
-Jonni Eduardo Aguilar/jonni.eduardo@agilethought.com
-Bruno Mendoza Aguilar/bruno.mendoza@agilethought.com
-Luis Torres Gonzales/luis.torres@agilethought.com
+<h5>Gabriel Carrasco Diaz/gabriel.carrasco@agilethought.com</h5>
+<h5>Jonni Eduardo Aguilar/jonni.eduardo@agilethought.com</h5>
+<h5>Bruno Mendoza Aguilar/bruno.mendoza@agilethought.com</h5>
+<h5>Luis Torres Gonzales/luis.torres@agilethought.com</h5>
 -----------------------------------------------------------
 <h3>COPYING / LICENSE</h3>
 
